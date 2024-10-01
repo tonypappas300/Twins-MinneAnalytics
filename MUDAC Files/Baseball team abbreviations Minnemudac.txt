@@ -1,0 +1,35 @@
+
+ANA  ANGELS
+ARI  arizona
+ATL  Atlanta
+BAL  baltimore
+BOS  boston
+CHA  CHicago White sox
+CHN  Chcago cubs
+CIN  Cinncinati
+CLE  cleaveland Indians
+COL  colorado
+DET  detroit
+FLO  Florida
+HOU  Houston
+KCA  Kansas city Royals
+LAN  Los angelos Dodgers
+MIA  Miami
+MIL  Milwaukee
+MIN  Minnesota
+MON  MOntreal
+NYA  New york Yankees
+NYN  New york Mets
+OAK  Oakland
+PHI  Philidalphia
+PIT  Pitsburgh
+SDN  San diego
+SEA  Seattle
+SFN  San Fransisco
+SLN  Saint louis
+TBA  Tampa bay
+TEX  Texas
+TOR  Toronto
+WAS  Washington
+
+
