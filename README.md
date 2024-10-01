@@ -1,6 +1,6 @@
 # Twins-MinneAnalytics
 
-This is a portfolio of my teams work to being the first high school team to enter and place second in the Midwest Undergraduate Data Analytics Competition. The MinneMUDAC 2023 Challenge was centered on America’s National Pastime – Baseball!  We gained an understanding of how various factors influence attendance at Major League Baseball (MLB) games. This is publishing of our public code and not our proprietary modeling we did for the Twins  
+This is a portfolio of my team's work to being the first high school team to enter and place second in the Midwest Undergraduate Data Analytics Competition. The MinneMUDAC 2023 Challenge was centered on America’s National Pastime – Baseball!  We gained an understanding of how various factors influence attendance at Major League Baseball (MLB) games. This is the publishing of our public code and not our proprietary modeling or data we used to consult the Twins.
 
 MinneMUDAC 2023 teamed up with the MN Twins for the challenge.  The Minnesota Twins / MLB were our clients for the challenge.  We presented our outcomes/findings in-person at Target Field.
 
